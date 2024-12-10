@@ -1,3 +1,7 @@
+# Curso DevOps: Trabalhando com Repositórios no GitHub
+
+Este repositório contém o projeto da **API AllBooks**, fornecido durante o curso, para ser utilizado nas atividades sugeridas ao longo do curso.
+
 # AllBooks
 
 Boas vindas a API do AllBooks!
